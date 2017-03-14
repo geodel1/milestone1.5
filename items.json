@@ -1,0 +1,90 @@
+{
+    "1": {
+        "id": "1",
+        "hero": "omni knight",
+        "title": "grey gallant",
+        "description": "rare",
+        "image": "images\/omniknight.jpeg",
+        "genre": "full set",
+        "price": "$ 5.99",
+        "stocks": "available",
+        "release_date": "April 2, 2015"
+    },
+    "2": {
+        "id": "2",
+        "hero": "phantom assasin",
+        "title": "phantom menace",
+        "description": "rare",
+        "image": "images\/pa.jpeg",
+        "genre": "full set",
+        "price": "$ 8.99",
+        "stocks": "available",
+        "release_date": "June 1,2015"
+    },
+    "3": {
+        "id": "3",
+        "hero": "rubick",
+        "title": "diviner embrace",
+        "description": "common",
+        "image": "images\/rubick.jpeg",
+        "genre": "full set",
+        "price": "$ 2.99",
+        "stocks": "unavailable",
+        "release_date": "June 2,2015"
+    },
+    "4": {
+        "id": "4",
+        "hero": "sand king",
+        "title": "elusive destroyer",
+        "description": "common",
+        "image": "images\/sk.jpeg",
+        "genre": "full set",
+        "price": "$ 2.99",
+        "stocks": "unavailable",
+        "release_date": "June 3,2015"
+    },
+    "5": {
+        "id": "5",
+        "hero": "sniper",
+        "title": "keen machine",
+        "description": "rare",
+        "image": "images\/sniper.jpeg",
+        "genre": "full set",
+        "price": "$ 4.99",
+        "stocks": "available",
+        "release_date": "June 4,2015"
+    },
+    "6": {
+        "id": "6",
+        "hero": "legion commander",
+        "title": "blade of voth domosh",
+        "description": "arcana",
+        "image": "images\/lc.jpeg",
+        "genre": "full set",
+        "price": "$ 34.49",
+        "stocks": "available",
+        "release_date": "March 06, 2017"
+    },
+    "7": {
+        "id": "123",
+        "hero": "31231",
+        "title": "31313",
+        "description": "131313",
+        "image": "31313",
+        "genre": "313",
+        "price": "3131",
+        "stocks": "3131",
+        "release_date": "3131"
+    },
+    "8": {
+        "id": "2212",
+        "hero": "2121",
+        "title": "21212",
+        "description": "2121",
+        "image": "21212",
+        "genre": "2121212",
+        "price": "21212",
+        "stocks": "21212",
+        "release_date": "2121"
+    }
+}
